@@ -4,7 +4,7 @@ Berikut ini adalah Koleksi yang dimiliki:
 ## Koleksi
 1. [Si Anak Pintar](ebook/Tere Liye - Si Anak Pintar.pdf) – Tere Liye (2018) 
 2. [Alasan Untuk Tetap Hidup](ebook/Matt Haig - Alasan Untuk Tetap Hidup.pdf) - Matt Haig (2018)
-3. [Berdamai Dengan Masa Lalu](ebook/Asti Musman - Berdamai dengan Masa Lalu.pdf) - Asti Musman (2019)
+3. [Berdamai dengan Masa Lalu](ebook/Asti Musman - Berdamai dengan Masa Lalu.pdf) - Asti Musman (2019)
 4. [Seporsi Mie Ayam Sebelum Mati](ebook/Brian Khrisna - Seporsi Mie Ayam Sebelum Mati.pdf) - Brian Khrisna (2025)
 5. [Get Smart!](ebook/Brian Tracy - Get Smart!.pdf) - Brian Tracy (2018)
 6. [Petunjuk Hidup Bebas Stres dan Cemas](ebook/Dale Carnegie - Petunjuk Hidup Bebas Stres dan Cemas.pdf) - Dale Carnegi (2019)

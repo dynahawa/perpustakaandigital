@@ -12,7 +12,6 @@ Berikut ini adalah Koleksi yang dimiliki:
 8. [Seni Menguasai Rasa Marah](ebook/Kalani Niran - Seni Menguasai Rasa Marah.pdf) - Kalani Niran (2021)
 9. [Dari Berpikir Positif ke Bertindak Positif](ebook/Richard Wiseman - Dari Berpikir Positif ke Bertindak Positif.pdf) - Richard Wiseman (2019)
 10. [Negeri Para Bedebah](ebook/Tere Liye - Negeri Para Bedebah.pdf) - Tere Liye (2012)
-## Rangkuman
-1. [Rangkuman UGC](ebook/Dyna Hawa - Rangkuman UGC.pdf) - Dyna Hawa (2026)
+11. [Rangkuman UGC](ebook/Dyna Hawa - Rangkuman UGC.pdf) - Dyna Hawa (2026)
 ---
 *Powered by GitHub Pages*
